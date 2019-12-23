@@ -8,22 +8,20 @@ Each have their own uses, as well as rarities.
 ### Gold
 
 The rarest currency available.
-Gold is used for purchasing legendary cards from the merchant,
-which are more powerful than regular cards.
+Gold is used for purchasing **Relics** from the merchant, as well as a portal key.
 
 ### Silver
 
-Uncommon currency.
-Silver is used for purchasing **permanent** cards from the merchant, as well as
-removing cards.
+Common currency.
+Silver is used for purchasing **Actions** from the merchant, as well as removing cards.
 
 ### Bronze
 
 Common currency.
-Bronze is used for purchasing **single-use** cards from the merchant, as well as
+Bronze is used for purchasing **Potions** from the merchant, as well as
 removing cards.
 
 ### Wrath
 
 Wrath is acquired by successfully attacking and hitting the hero.
-Wrath is used to upgrade spirit decks.
+Wrath is used to upgrade spirit decks at the end of every floor.
