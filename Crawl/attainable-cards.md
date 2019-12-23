@@ -21,19 +21,19 @@ When played, is displayed face up and applies a passive effect for the remainder
 Passive cards are displayed face up in front of a player.
 They provide a passive effect for the player.
 
-### Relics
+### Relic
 
 Generally apply a positive effect, either for a player's hero or monsters.
 
-## Curses
+### Curse
 
 Apply a negative effect, either for a player's hero or monsters.
 
-## Mutations
+### Mutation
 
 Apply a passive effect to a player's monsters. Only purchasable with **Wrath**.
 
-## Potions
+### Potion
 
 Potions are displayed face up in each player's inventory.
 Single-use cards that the hero can use freely at any time (in and out of combat).
