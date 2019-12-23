@@ -11,7 +11,7 @@ A portal key is always available for purchase, allowing access to enter The Port
 
 The stock is randomized on every floor and only restocks when the floor resets.
 
-1 Legendaries
+3 Relics
 
 3 Actions
 
