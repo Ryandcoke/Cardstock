@@ -1,0 +1,10 @@
+MILITARY
+
+BANKER
+
+
+
+
+Specialization
+Discard any number of cards of the same type (Action, Money, ect.), gain up to 2 cards of that type, with a total cost up to that of the discarded cards.
+
